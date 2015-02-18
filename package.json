@@ -1,0 +1,20 @@
+{
+  "name" : "tedcapli.com",
+  "description" : "tedcapli.com",
+  "homepage" : "http://tedcapli.com/",
+  "author" : "Oscar Eriksson <oscar.eriks@gmail.com>",
+  "contributors" : [],
+  "dependencies" : [],
+  "devDependencies": {
+    "karma": "^0.12.16",
+    "bower": "^1.3.1",
+    "tmp": "0.0.23",
+    "http-server": "^0.6.1",
+    "angular": "^1.3.13"
+  },
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "repository" : {"type": "git", "url": "git://github.com/sovaa/tedcapli.com.git"},
+  "version" : "0.1.0"
+}
